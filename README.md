@@ -1,3 +1,6 @@
+Generates Mobile and Web Application using reactjs and react native components<br>
+one source based
+
 # Install
 npm install
 
